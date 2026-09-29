@@ -1,7 +1,12 @@
 [
   {
     "chapterId": "ch1",
-    "title":"This is chapter 1",
+    "title":"Глава 1",
+    "version": 1
+  },
+  {
+    "chapterId": "ch2",
+    "title":"Глава 2",
     "version": 1
   }
 ]
